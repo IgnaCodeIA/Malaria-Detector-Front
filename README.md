@@ -20,5 +20,5 @@ This Streamlit app allows users to upload a blood cell image and get a predictio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/Malaria-Detection-App.git
+   git clone https://github.com/IgnaCodeIA/Malaria-Detector-Front
    cd Malaria-Detection-App
